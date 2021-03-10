@@ -1,4 +1,4 @@
-# 8Queens
+# 8 Queens
 The following program solves the 8 Queens problem using Hill-Climbing algorithm with random restarts.
 
 ## Usage
